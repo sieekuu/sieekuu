@@ -62,18 +62,6 @@
 
   ---
 
-  ### 📊 GitHub Activity
-
-  <div align="center">
-    <a href="https://github.com/sieekuu">
-    <img src="https://github-readme-stats.vercel.app/api?username=sieekuu&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="160"/>
-    </a>
-    <a href="https://github.com/sieekuu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sieekuu&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="160"/>
-    </a>
-  </div>
-
-  <br/>
 
   ### 📫 Get in Touch
 
